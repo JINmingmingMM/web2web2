@@ -1,0 +1,404 @@
+*{
+	padding:0;margin:0;
+}
+ul,li,ol{
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
+.cover{
+	height:129px;
+	margin:0 auto;
+}
+.cover0{
+	width:1200px;
+	margin:0 auto;
+	margin-top:8px;
+}
+.cover01{
+	height:20px;
+	float:left;
+	font-size:12px;
+	color:#9a9791;
+}
+.cover02{
+	height:105px;
+}
+.cov{
+	float:left;
+	margin-top:30px;
+	margin-left:107px;
+}
+.cover020{
+	width:500px;
+	height:38px;
+	border:2px solid #fe6c00;
+}
+.cover021{
+	width:86px;
+	height:38px;
+	background:#fe6c00;
+	border:2px solid #fe6c00;
+	margin-left:-6px;
+	text-align:center;
+	font-size:18px;
+	color:#ffffff;
+}
+.cov ul{
+	margin-top:10px;
+	font-size:11px;
+}
+.cov ul li{
+	float:left;
+}
+.cover02 ul li img{
+	margin-left:10px;
+	margin-right:10px;
+}
+.cover03 ul li{
+	margin-top:30px;
+	float:right;
+	width:85px;
+	height:41px;
+	border:2px solid #e6e5e2;
+	color:#a89791;
+	border-radius:5px;
+	text-align:center;
+	font-size:11px;
+}
+.cover03 ul li img{
+	margin-top:6px;
+}
+.cover03 ul li p{
+	margin-top:5px;
+}
+.two{
+	height:42px;
+	background:#000000;
+}
+.two0{
+	width:1200px;
+	margin:0 auto;
+}
+.two0 ul li{
+	padding-left:36px;
+	padding-right:36px;
+	color:#ffffff;
+	font-size:13px;
+	float:left;
+	line-height:42px;
+}
+.two img{
+	float:right;
+}
+.three{
+	height:782px;
+	background:#f6f5f4;
+}
+.three0{
+	height:40px;
+	width:1200px;
+	margin:0 auto;
+	line-height:40px;
+}
+.three0 p{
+	font-size:13px;
+}
+.three1{
+	height:633px;
+	width:1200px;
+	margin:0 auto;
+}
+.three10{
+	width:998px;
+	height:633px;
+	background:#ffffff;
+	float:left;
+}
+.three100{
+	width:435px
+	height:633px;
+	padding-left:20px;
+	padding-top:20px;
+	float:left;
+}
+.three1002{
+	margin-top:23px;
+}
+.three101{
+	padding-top:20px;
+	margin-left:20px;
+	width:543px;
+	height:633px;
+	float:left;
+}
+.three101 p{
+	font-size:18px;
+	margin-bottom:10px;
+}
+.three101 h3{
+	font-size:13px;
+	color:#676660;
+}
+.three1010{
+	margin-top:35px;
+	margin-left:20px;
+}
+.three1010 p{
+	margin-top:3px;
+	float:left;
+	font-size:12px;
+}
+.three1011{
+	width:500px;
+	height:245px;
+	padding-left:20px;
+}
+.mlaa{
+	width:60px;
+	height:30px;
+	font-size:10px;
+	padding-left:15px;
+	text-align:center;
+	line-height:30px;
+	float:left;
+	border:2px solid #ff0754;
+	margin-bottom:5px;
+}
+.mlai{
+	width:60px;
+	height:30px;
+	float:left;
+	text-align:center;
+	line-height:30px;
+	font-size:10px;
+	border:none;
+	display:none;
+}
+.mlbb{
+	width:60px;
+	height:30px;
+	float:left;
+	text-align:center;
+	line-height:30px;
+	font-size:10px;
+	border:none;
+}
+.mlbi{
+	display:none;
+	width:60px;
+	height:30px;
+	font-size:10px;
+	padding-left:15px;
+	text-align:center;
+	line-height:30px;
+	float:left;
+	border:2px solid #ff0754;
+	margin-bottom:5px;
+}
+
+.three10110{
+	margin-top:20px;
+}
+.three10110 input{
+	width:52px;
+	height:28px;
+	font-size:10px;
+	text-align:center;
+	line-height:28px;
+	border:1px solid #cecbc5;
+}
+.mlcc{
+	margin-top:20px;
+	margin-left:57px;
+}
+
+.three100{
+	width:435px
+	height:633px;
+	padding-left:20px;
+	padding-top:20px;
+	float:left;
+}
+.three1002{
+	margin-top:23px;
+}
+
+
+
+.three11{
+	width:196px;
+	height:633px;
+	background:#ffffff;
+	float:right;
+}
+
+.three2{
+	width:1200px;
+	height:100px;
+	margin:0 auto;
+	margin-top:10px;
+}
+.three2 ul li{
+	float:left;
+	margin-right:100px;
+}
+.three2 ul span{
+	font-size:16px;
+	color:#fe6d8d;
+	margin-left:15px;
+	position:relative;
+	bottom:30px
+}
+
+.four{
+	height:368px;
+	background:#f8f7f6;
+}
+.four0{
+	width:1200px;
+	height:210px;
+	margin:0 auto;
+}
+.four00{
+	width:149px;
+	height:170px;
+	margin-top:35px;
+	margin-left:75px;
+	float:left;
+}
+.four01{
+	float:left;
+	margin-left:84px;
+	padding-bottom:28px;
+	border-bottom:2px solid #ebeae8;
+}
+.four01 ul {
+	margin-right:60px;
+	float:left;
+}
+.four01 ul li{
+	font-size:13px;
+	color:#666560;
+	margin-top:14px;
+}
+.four1{
+	margin:0 auto;
+	width:640px;
+	height:31px;
+}
+.four1 ul li{
+	float:left;
+	margin-top:14px;
+	font-size:13px;
+	color:#666560;
+}
+.four1 ul li img{
+	padding-right:10px;
+	padding-left:10px;
+}
+.four2{
+	height:24px;
+	width:520px;
+	margin:0 auto;
+	margin-top:11px;
+}
+.four2 p{
+	font-size:8px;
+	color:#a797aa;
+}
+.four3{
+	height:13px;
+	width:1200px;
+	margin:0 auto;
+}
+.four3 p{
+	font-size:13px;
+	color:#a797aa;
+}
+.four4{
+	width:10px;
+	height:15px;
+	margin:0 auto;
+	margin-top:14px;
+}
+.four4 p{
+	font-size:10px;
+	color:#a797aa;
+}
+.four5{
+	margin-top:10px;
+	width:785px;
+	margin:0 auto;
+}
+
+
+#box {
+    width: 410px;
+    height: 407px;
+    position: relative;
+    border: 2px solid #d0cdc7;
+}
+
+#img1 {
+    width: 410px;
+    height: 407px;
+}
+
+#img1 img {
+    width: 410px;
+    height: 407px;
+}
+
+#slider {
+    width: 205px;
+    height: 203px;
+    position: absolute;
+    display: none;
+    background: #CCC;
+    opacity: 0.4;
+    cursor: move;/*控制鼠标样式*/
+}
+
+#img2 {
+	width: 410px;
+    height: 407px;
+    position: relative;
+    left:410px;
+    top:-407px;
+    overflow: hidden;
+    display: none;
+    border: 2px solid #d0cdc7;
+    background:#ffffff;
+    z-index:100;
+}
+
+#Bimg {
+    width:820px;
+    height:814px;
+    position:absolute;
+}
+
+
+
+
+.click{
+	position:fixed;
+	top:0;
+	left:0;
+    width: 100%; 
+    height: 100%; 
+	display:none;
+	z-index:1001;
+	background-color:rgba(222, 216, 205, 0.8);
+}
+.white{
+	width:400px;
+	height:230px;
+	position:relative;
+	top:215px;
+	left:474px;
+	border:5px solid #aca9d3;
+	background:#ffffff;
+}
